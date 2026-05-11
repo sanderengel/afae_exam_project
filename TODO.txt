@@ -1,0 +1,25 @@
+
+# Preposs
+    # Transformations
+        # standarization
+    
+
+#models
+
+    # Baseline
+
+    # Unaware
+
+    # FairPCA or something similar
+
+
+# Metrics
+
+    # Accuracy, precision
+        # do we care more about false positives or false negatives?
+
+    # statistical parity
+    # Equalized ods
+    # Shap values and graphs
+
+
